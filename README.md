@@ -1,4 +1,3 @@
-Here is your **README.md** file with proper indentation and formatting:
 
 ```md
 # 📝 Real-Time Chat API
